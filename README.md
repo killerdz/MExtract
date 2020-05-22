@@ -1,2 +1,6 @@
-# metasploit-payload-.apk-info-extract
-A simple bash script to extract ip-port from a metasploit payloads .... 
+# MExtract
+A simple bash script to extract 
+information ( ip + port )
+from a metasploit .apk payloads 
+Work only on Termux
+git clone 

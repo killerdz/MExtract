@@ -2,7 +2,7 @@
 #this script coded by kira-dz
 #metasploit .apk payload scan + info extract v0.1
 #my first code :)
-# writed + tested on termux
+#writed + tested on termux
 #Enjoy
 #banner
 python banner.py

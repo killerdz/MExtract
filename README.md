@@ -5,7 +5,7 @@ Reverse Engineering Script For Metasploit [.apk] Payloads
 
 # Installation
 ```
-1. download : git clone https://github.com/killerdz/Horus-Eye.git
+1. download : git clone https://github.com/killerdz/MExtract.git
 
 2. cd MExtract
 
